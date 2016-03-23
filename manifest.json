@@ -3,19 +3,18 @@
 
   "name": "Feel the Bern",
 
+  "author": "Avijeet Sachdev",
+
   "short_name": "FeelTheBern",
 
   "description": "Pointing you in the right direction for who to vote for.",
 
-  "version": "1.0.1",
+  "version": "1.0.2",
   
   "icons": {
-    "128": "128.png",
-    "48": "48.png",
-    "16": "16.png",
-    
-   "author": "Avijeet Sachdev"
-  },
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png" },
 
   "content_scripts": [
     {
