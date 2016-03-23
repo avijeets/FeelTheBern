@@ -6,10 +6,16 @@
   "description": "Pointing you in the right direction for who to vote for.",
 
   "version": "1.0",
+  
+  "icons": {
+    "128": "128.jpg",
+    "48": "48.jpg",
+    "16": "16.jpg"
+  },
 
   "content_scripts": [
     {
-      "matches": ["*://www.donaldjtrump.com/"],
+      "matches": ["*://www.donaldjtrump.com/*"],
       "js" : ["show.js"]
     }
   ],
