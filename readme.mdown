@@ -2,3 +2,7 @@ Feel the Bern
 --
 
 Have you ever wanted help on picking a presidential candidate to vote for? Have you ever considered Donald J. Trump as one of those candidates?
+
+Look no further! 
+
+Feel The Bern is simply a Chrome extension that magically redirects you from [donaldjtrump.com](http://donaldjtrump.com) to [berniesanders.com](http://berniesanders.com) every time you consider voting for Donald Trump.
